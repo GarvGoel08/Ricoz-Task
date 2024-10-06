@@ -23,7 +23,7 @@ app.use(
 );
 
 app.get("/", (req, res) => {
-  res.send("Ricoz-School DB is working..");
+  res.send("Ricoz-College DB is working..");
 });
 
 // Server Running on Port 3000
